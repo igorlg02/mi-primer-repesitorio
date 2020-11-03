@@ -1,4 +1,5 @@
 amarillo
 azul
 rojo
+blanco
 lila
